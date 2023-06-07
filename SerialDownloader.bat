@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "string=https://dl2.soft98.ir/soft/s/Simple.Sticky.Notes.6.0.$.rar?1686175455"
+set /p "string=enter a download link with ($): "
 set /p "start=enter start number: "
 set /p "end=enter end number: "
 set /p "fileName=enter a file name: "
