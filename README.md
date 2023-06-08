@@ -2,7 +2,7 @@
 Download all series episode with one click or download all partition of file with one script without installing any app
 
 ## How does it work?
-To use this code, simply download the file [SerialDownloader](https://github.com/2077DevWave/SerialDownloader/blob/main/SerialDownloader.bat) , and double-click on it to run.
+To use this code, simply download the file [SerialDownloader](https://github.com/2077DevWave/SerialDownloader/releases/download/1.0/SerialDownloader.bat) , and double-click on it to run.
 After running, enter the desired values.
 In the link, replace variable values such as the episode number or partition of the file with the character $.
 In the Start Number and End Number sections, specify the starting and ending numbers of the partition or sections.
